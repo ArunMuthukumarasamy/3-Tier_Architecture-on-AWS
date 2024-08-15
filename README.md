@@ -22,3 +22,5 @@ All of this was achieved within the constraints of the AWS Free Tier, allowing f
 # Work-Flow Diagram :
 
 ![3TierArch,png](https://github.com/user-attachments/assets/73dc2256-fbb8-4c8b-8c26-b4a5813b4deb)
+
+Note : 3Tier-Architecture.pdf Refer the Documentation.
