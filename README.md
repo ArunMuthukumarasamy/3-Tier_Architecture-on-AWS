@@ -19,6 +19,6 @@ All of this was achieved within the constraints of the AWS Free Tier, allowing f
 
 💡 Bonus Tip: Remember to leverage AWS security best practices by using Security Groups, IAM roles, and encryption to protect your resources & Make SSM service for better practices.
 
-#Work-Flow Diagram : 
+# Work-Flow Diagram :
 
-![3TierArch,png]
+![3TierArch,png](https://github.com/user-attachments/assets/73dc2256-fbb8-4c8b-8c26-b4a5813b4deb)
